@@ -10,7 +10,7 @@ Aprire la sezione **Releases**, scegliere la versione consigliata più recente e
 
 La versione installata è visibile già nella schermata di accesso dalla preview.25.
 
-La preview.27 corregge il wizard iniziale: categorie e prodotti vengono sbloccati dal test di schema e permessi, senza richiedere la sincronizzazione completa del catalogo.
+La preview.29 corregge il wizard iniziale: categorie e prodotti vengono sbloccati dal test di schema e permessi, senza richiedere la sincronizzazione completa del catalogo. Il mapping Published salvato nel workspace è riconosciuto direttamente.
 
 ## Sicurezza
 
