@@ -6,9 +6,11 @@ Questa repository contiene esclusivamente pacchetti compilati, note di rilascio 
 
 ## Installazione
 
-Aprire la sezione **Releases**, scegliere la versione consigliata più recente e scaricare il pacchetto Windows x64. Dalla versione 0.3.0-preview.24 il connettore controlla questo canale e mostra in Home un avviso prima di qualsiasi download. Il badge arancione **VERSIONE** consente anche di ripetere manualmente il controllo.
+Aprire la sezione **Releases**, scegliere la versione consigliata più recente e scaricare il pacchetto Windows x64. Il connettore controlla questo canale e mostra in Home un avviso prima di qualsiasi download. Il badge arancione **VERSIONE** consente anche di ripetere manualmente il controllo.
 
 La versione installata è visibile già nella schermata di accesso dalla preview.25.
+
+La preview.27 corregge il wizard iniziale: categorie e prodotti vengono sbloccati dal test di schema e permessi, senza richiedere la sincronizzazione completa del catalogo.
 
 ## Sicurezza
 
