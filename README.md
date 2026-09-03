@@ -6,10 +6,10 @@ Questa repository contiene esclusivamente pacchetti compilati, note di rilascio 
 
 ## Installazione
 
-Aprire la sezione **Releases**, scegliere la versione consigliata più recente e scaricare il pacchetto Windows x64. Dalla versione 0.3.0-preview.23 il connettore controlla questo canale e mostra in Home un avviso prima di qualsiasi download.
+Aprire la sezione **Releases**, scegliere la versione consigliata più recente e scaricare il pacchetto Windows x64. Dalla versione 0.3.0-preview.24 il connettore controlla questo canale e mostra in Home un avviso prima di qualsiasi download. Il badge arancione **VERSIONE** consente anche di ripetere manualmente il controllo.
 
 ## Sicurezza
 
 Ogni pacchetto è accompagnato da un file `*-release.json` con dimensione e SHA-256. Il connettore verifica l'hash prima di dichiarare completato il download.
 
-Gli aggiornamenti non partono automaticamente: l'utente deve scegliere **Scarica e verifica**. La preview 23 scarica e verifica il pacchetto; l'installazione atomica automatica sarà introdotta in una fase successiva.
+Gli aggiornamenti non partono automaticamente: l'utente deve scegliere **Scarica e verifica**. La preview 24 scarica e verifica il pacchetto; l'installazione atomica automatica sarà introdotta in una fase successiva.
